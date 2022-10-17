@@ -1,0 +1,13 @@
+{
+  "name": "Quest Mod Template",
+  "author": "Lauriethefish",
+  "src": "./template",
+  "description": "Template for creating QuestPatcher/BMBF mods for the Oculus Quest.",
+  "placeholders": [
+    {"match": "C:/Program Files/Qmod/Android", "prompt": "The path to the android NDK", "cachable": true},
+    {"match": "QolourFlip", "prompt": "The ID of the mod"},
+    {"match": "Qolour Flip", "prompt": "The name of the mod"},
+    {"match": "Nuggo", "prompt": "The author of the mod"},
+    {"match": "A random 50/50 chance for each note to be the opposite saber colour :)", "prompt": "The description of the mod"}
+  ]
+}
